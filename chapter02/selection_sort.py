@@ -2,13 +2,9 @@
 
 '''
 @Author  :   {YourName}
-
 @File    :   selection_sort.py
-
 @Time    :   2019/3/16 11:35
-
 @Desc    :
-
 '''
 
 """
